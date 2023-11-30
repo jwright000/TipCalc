@@ -1,0 +1,20 @@
+  #results {
+         display:none;
+       }
+  /* styles.css */
+body {
+  background-color: #3498db;
+  color: #fff;
+}
+
+.card {
+  background-color: #34495e;
+  border: none;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card h1 {
+  font-size: 2rem;
+}
